@@ -1,8 +1,10 @@
 header {
     background-color: #30940C;
-    color: black ;
+    color: black;
+    display: flex;
+    justify-content: space-around;
 }
 
 .cabeçalho-imagem{
-    width: 30%;
+    width: 40%;
 }
