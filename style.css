@@ -32,8 +32,13 @@
         display: flex;
         justify-content: center;
         align-items: center;
+        padding: 24px;
     }
-    .escola-div-conteudo{
+    .plantasmedicinais-div-conteudo{
         width:35%;
 
     } 
+    
+    .plantasmedicinais-titulo{
+        padding: 24px 0;
+    }
