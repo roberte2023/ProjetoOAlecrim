@@ -22,23 +22,23 @@
         margin: 0 16px;
         font-size: 32px;
     }
-    .plantasmedicinais-imagem{
+    .ProjetoOAlecrim-imagem{
         width: 100%;
     }
 
-    .plantasmedicinais{
+    .ProjetoOAlecrim{
         background-image: linear-gradient(30940C,C5F4D2);
         color: black;
         display: flex;
         justify-content: center;
         align-items: center;
-        padding: 24px;
+        padding: 24px 0;
     }
-    .plantasmedicinais-div-conteudo{
+    .ProjetoOAlecrim-div-conteudo{
         width:35%;
 
     } 
     
-    .plantasmedicinais-titulo{
+    .ProjetoOAlecrim-titulo{
         padding: 24px 0;
     }
